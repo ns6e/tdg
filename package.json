@@ -19,5 +19,6 @@
     "prepublish": "npm run build",
     "test": "jest",
     "build": "tsc"
-  }
+  },
+  "version": "1.0.0"
 }
